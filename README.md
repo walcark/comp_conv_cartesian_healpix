@@ -1,4 +1,4 @@
-# comp_convol_cartesian-healpix
+# Comparison of the convolution -- cartesian grid vs HEALPix grid
 
 ## Requirements
 
