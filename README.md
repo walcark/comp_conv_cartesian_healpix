@@ -1,4 +1,4 @@
-# Comparison of the convolution -- cartesian grid vs HEALPix grid
+# Comparison of the convolution - cartesian grid vs HEALPix grid
 
 ## Requirements
 
